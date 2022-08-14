@@ -1,14 +1,6 @@
 # React Router 6
 
 
-#### Run Complete Project
-
-- index.js
-
-```js
-// import App from './App';
-import App from './final/App';
-```
 
 #### Docs
 
